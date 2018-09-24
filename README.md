@@ -26,4 +26,18 @@ Files for League 2 start and Premier leauge start are needed to be edited for yo
 
 Plus color palette of your choosing. You can see all the things that can be colored by comparing the "CHECK ME!" file with League 1 file.
 
-![a](https://prnt.sc/ky5u6i)
+<a href="https://i.imgur.com/o1qmqrn.png" target="_blank">
+<img src="https://i.imgur.com/o1qmqrn.png" alt="Story">
+</a>
+<a href="https://i.imgur.com/UbdjDpf.png" target="_blank">
+<img src="https://i.imgur.com/UbdjDpf.png" alt="Overview">
+</a>
+<a href="https://i.imgur.com/4LmH9MG.png" target="_blank">
+<img src="https://i.imgur.com/4LmH9MG.png" alt="Seasons Tab">
+</a>
+<a href="https://i.imgur.com/tlSvzWn.png" target="_blank">
+<img src="https://i.imgur.com/tlSvzWn.png" alt="Seasons Tab-bottom">
+</a>
+<a href="https://i.imgur.com/tlFmX13.png" target="_blank">
+<img src="https://i.imgur.com/tlFmX13.png" alt="Tables for each competition">
+</a>
