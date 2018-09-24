@@ -10,15 +10,19 @@ File for League 1 start is ready for Charlton Athletic career with filled histor
 
 Files for League 2 start and Premier leauge start are needed to be edited for your chosen team.
 
-Editing:
-For club logo use Wikipedia site of the club.
+**Editing the Overview Page** (optional)**:**  
+- For club logo use Wikipedia site of the club.
 
-For club season finishes, use Wikipedia site of the clubs seasons (ie. https://en.wikipedia.org/wiki/List_of_Charlton_Athletic_F.C._seasons) as well as Transfermarkt's site of the club
+- For club season finishes, use Wikipedia site of the clubs seasons (ie. https://en.wikipedia.org/wiki/List_of_Charlton_Athletic_F.C._seasons) as well as Transfermarkt's site of the club
 
-For club stadium and kit photos, use google images.
+- For club stadium and kit photos, use google images.
 
-For club record holding strikers, use Wikipadia site of the club players (ie. https://en.wikipedia.org/wiki/List_of_Charlton_Athletic_F.C._players), in biggers clubs site of records and statistics (ie. https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._records_and_statistics)
+- For club record holding strikers, use Wikipadia site of the club players (ie. https://en.wikipedia.org/wiki/List_of_Charlton_Athletic_F.C._players), in biggers clubs site of records and statistics (ie. https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._records_and_statistics)
 
-For club rivalries use https://en.wikipedia.org/wiki/List_of_sports_rivalries_in_the_United_Kingdom and find VS stats of the two on http://www.soccerbase.com/
+- For club rivalries use https://en.wikipedia.org/wiki/List_of_sports_rivalries_in_the_United_Kingdom and find VS stats of the two on http://www.soccerbase.com/
 
-For club achievements, use clubs oficial site as well as their Wikipedia site.
+- For club achievements, use clubs oficial site as well as their Wikipedia site.
+  
+
+Plus color palette of your choosing. You can see all the things that can be colored by comparing the "CHECK ME!" file with League 1 file.
+
