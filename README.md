@@ -1,8 +1,8 @@
 # Fifa-19-career-mode-history-spreadsheet-for-english-football
 
-Spreadsheet holding career mode data about your team and players, updated from last years verion: https://github.com/R4lfXD/Updated-Fifa-CM-history-spreadsheet-League-2
+Spreadsheet holding career mode data about your team and players, updated from last years version: https://github.com/R4lfXD/Updated-Fifa-CM-history-spreadsheet-League-2
 
-First, please download the "CHECK ME! Fifa 19 instructions" to look around a filled file with post notes on how to use the file and what to edit.
+First, please download the "CHECK ME! Fifa 19 instructions" to look around the filled file with post notes on how to use the file and what to edit.
 
 Next, there are three files available(for now).
 
